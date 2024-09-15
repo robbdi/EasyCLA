@@ -8,7 +8,7 @@ This repository is managed by EasyCLA. Project participants must sign the free [
 
 You can find [detailed information here](https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation). If you have issues, please email [focus@finops.org](mailto:focus@finops.org).
  
-To initiate the signature process please open a PR against this repo. The EasyCLA bot will block the merge if we still need a membership agreement from you.
+To initiate the signature process please open a PR against this repo. The EasyCLA bot will block the merge if we still need a membership agreement from you. 
 
 # Steps to trigger CLA signing process
 
